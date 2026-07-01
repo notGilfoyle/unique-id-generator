@@ -1,6 +1,4 @@
-# config.py
-
-EPOCH = 1704067200000  # Jan 1 2024
+EPOCH = 1704067200000  # Jan 1 2024 (milliseconds)
 
 WORKER_ID_BITS = 10
 SEQUENCE_BITS = 12
